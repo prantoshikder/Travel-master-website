@@ -1,0 +1,25 @@
+.navbar img {
+    height: 35px;
+}
+
+.navbar input {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+}
+
+.header-top {
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 10px 0px;
+}
+
+.navbar-nav {}
+
+.navbar-nav .nav-item {
+    margin-right: 35px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #fff !important;
+    font-weight: bold;
+}

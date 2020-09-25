@@ -1,0 +1,86 @@
+.menu {
+    background-color: black;
+}
+
+.navbar-nav .nav-item .nav-link {
+    /* color: #000 !important; */
+    font-weight: bold;
+}
+
+.loginPart {
+    height: 400px;
+    width: 500px;
+    /* border: 1px solid #000; */
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 25px 25px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.loginPart h3 {
+    margin-left: 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.loginPart input {
+    border: none;
+    border-bottom: 1px solid gray;
+    padding: 5px 0px 5px 10px;
+    width: 420px;
+    outline: none;
+    color: #000;
+    margin: 10px;
+}
+
+input.loginButton {
+    border: none;
+    padding: 10px 0px;
+    text-align: center;
+    background-color: #ffc107;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.loginPart p {
+    text-align: center;
+}
+
+.createAccount {
+    color: #ffc107;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.createAccount:hover {
+    border-bottom: none;
+    text-decoration: none;
+}
+
+.or p {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.fireAuth {
+    justify-content: center;
+    align-items: center;
+    padding: 10px 25px 10px 20px;
+    border: 1px solid #000;
+    border-radius: 35px;
+    width: 500px;
+    margin: 10px auto;
+    cursor: pointer;
+    background: #000;
+    color: #fff;
+}
+
+.fireAuth .authTitle h5 {
+    margin-left: 15px;
+}
+
+.createAccount {
+    cursor: pointer;
+}

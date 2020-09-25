@@ -1,0 +1,34 @@
+.bg-banner {
+    background-image: url("../image/Bg-Banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 100% 100%;
+    background-attachment: fixed;
+}
+
+.bg-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+}
+
+.form-group input {
+    background-color: lightgray;
+    color: black;
+    font-weight: bold;
+}
+
+.destination {
+    height: 400px;
+    width: 500px;
+    background: #fff;
+    padding: 35px;
+    border-radius: 15px;
+    margin-left: 25%;
+}
+
+.bookBtn {
+    margin-top: 45px;
+    width: 430px;
+    text-align: center;
+}

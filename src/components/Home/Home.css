@@ -1,0 +1,18 @@
+.bg-banner {
+    background-image: url("../image/Bg-Banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 100% 100%;
+    background-attachment: fixed;
+}
+
+.bg-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+}
+
+.travelCard {
+    display: flex;
+    justify-content: center;
+}
