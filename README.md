@@ -8,9 +8,20 @@ Live Site: [https://travel-master-website-2f549.web.app/](https://travel-master-
 
 + One-page web application with interactive UI.
 
++ A travel management system helps travel managers book, track, and analyze business travel. 
+
++ Scalable, power and performance built to service the largest tour operators.
+
++ Modest, practical solutions for small and medium size tour operators. 
+
++ Minimum number of days required for advanced booking.
+
++ Amount of travel spend booked out of policy.
+
++ Easy booking, including self-booking for travelers.
+
 + We have implemented authentication for google, Facebook and manual email.
 
-+ Book your traveling spot.
 
 
 
